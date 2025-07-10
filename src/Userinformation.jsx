@@ -4,7 +4,7 @@ export const userdata = [
     name: "Muhammad irfan",
     work: "Software Engn",
     image:
-      "https://scontent.fisb29-1.fna.fbcdn.net/v/t39.30808-6/504431718_710956565236096_4132413559084489239_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=wgfIO667zeoQ7kNvwH2-bai&_nc_oc=Adnk-OYOo_cA3XCDYFj5YGlvXbkEhKcZ9YCeO0-joiOtPTpCU5yfqp9KNJLbUECrJ6k&_nc_zt=23&_nc_ht=scontent.fisb29-1.fna&_nc_gid=qHxsBwQqJqP_YWCYAd7dVg&oh=00_AfNO6w5lre9jROQaivUOJQHGq3p-M2F801IzogFwlLxzMQ&oe=685C1EA2",
+      "https://scontent.fisb29-1.fna.fbcdn.net/v/t39.30808-6/504431718_710956565236096_4132413559084489239_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=n68Yolq-ovYQ7kNvwFt33iu&_nc_oc=Adn350pcoEUGvykoDJIadDwVgmHCh9L6MDPMYLmoXlDIl9EmoMjyfWH7HLNseDpKaRo&_nc_zt=23&_nc_ht=scontent.fisb29-1.fna&_nc_gid=FtAxNJQ4aogCXY8hu8tz9g&oh=00_AfS3WOivZSFHcgeWqAaUpJFLA3BLycEwvg7U3fxc24GM9w&oe=68759BA2",
     desc: "I'm Irfan, a passionate software engineer specializing in front-end development with React. I focus on building responsive, user-friendly web applications and continuously strive to improve my skills and deliver high-quality code.",
     dob: "01/01/2007",
     salery: "2800",
