@@ -4,7 +4,7 @@ export const userdata = [
     name: "Muhammad irfan",
     work: "Software Engn",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV4Se_dQOMqHs-m8oXpX5_mvpCEYaIeU5I4g&s",
+      "https://scontent.fisb29-1.fna.fbcdn.net/v/t39.30808-6/509426624_711845145147238_5654222271511101003_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=i5sov7epziQQ7kNvwGZRmha&_nc_oc=AdkYLMtzCOLM9aJsVM2nL__A43oqvnewBiNGW881ZIpaVo82IkemHrp8ePviu004Lqc&_nc_zt=23&_nc_ht=scontent.fisb29-1.fna&_nc_gid=ympXTq8-GPrgPQSY_Q5VmQ&oh=00_AfR0UxXyBMcWNTFPCjvJDH63lN5Pg15oW7i8B4mPmTPiHA&oe=687594F9",
     desc: "I'm Irfan, a passionate software engineer specializing in front-end development with React. I focus on building responsive, user-friendly web applications and continuously strive to improve my skills and deliver high-quality code.",
     dob: "01/01/2007",
     salery: "2800",
